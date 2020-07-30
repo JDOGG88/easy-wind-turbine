@@ -1,0 +1,9 @@
+{
+  "name": "easy-wind-turbine",
+  "version": "1.0.1",
+  "title": "Easy Wind Turbines",
+  "author": "Unfunf22",
+  "homepage": "",
+  "factorio_version" : "0.18",
+  "description": "Adds 3 wind turbines to the game"
+}

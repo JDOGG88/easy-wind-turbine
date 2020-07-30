@@ -1,0 +1,26 @@
+{
+  "item":
+  [
+    ["wind-turbine", "wind-turbine-1"],
+    ["wind-turbine2", "wind-turbine-2"],
+    ["wind-turbine3", "wind-turbine-3"]
+  ],
+  "recipe":
+  [
+    ["wind-turbine", "wind-turbine-1"],
+    ["wind-turbine2", "wind-turbine-2"],
+    ["wind-turbine3", "wind-turbine-3"]
+  ],
+  "entity":
+  [
+    ["wind-turbine", "wind-turbine-1"],
+    ["wind-turbine2", "wind-turbine-2"],
+    ["wind-turbine3", "wind-turbine-3"]
+  ],
+  "technology":
+  [
+    ["wind-turbine", "wind-turbine-1"],
+    ["wind-turbine2", "wind-turbine-2"],
+    ["wind-turbine3", "wind-turbine-3"]
+  ]
+}
